@@ -2,7 +2,7 @@
 banner: "![[space3.jpg]]"
 ---
 ---
-tag: home
+tag: [[8 Resources/Home/Home|home]]
 publish: false
 cssClass: home
 
@@ -26,7 +26,7 @@ show starred files
 flexGrow=1
 ===
 ```button
-name ChatGPT
+name [[1 Notes/chatgpt|ChatGPT]]
 type command
 action Custom Frames: Open ChatGPT
 class home-button
